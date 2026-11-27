@@ -6,7 +6,7 @@
   "navigation": {
     "groups": [
       { "group": "Start here", "pages": ["index"] },
-      { "group": "Guides", "pages": ["website-launch-checklist", "google-business-profile-basics", "seo-page-brief", "google-ads-account-ownership"] }
+      { "group": "Guides", "pages": ["website-launch-checklist", "google-business-profile-basics", "seo-page-brief", "google-ads-account-ownership", "local-seo-checklist"] }
     ]
   },
   "navbar": { "primary": { "type": "button", "label": "digitalcave.uk", "href": "https://digitalcave.uk" } },
